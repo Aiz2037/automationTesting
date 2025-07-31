@@ -18,4 +18,11 @@ The test cases file will access the page object file in different part of progra
 <img width="791" height="861" alt="image" src="https://github.com/user-attachments/assets/5a75791e-f83c-46a0-a134-c0dbedbac69e" />
 
 
-For execution section, this section focus on executing the program, and provide observatory point for test results.
+For execution section, this section focus on executing the program, and provide observatory point for test results. The program will run through the testng file as below.
+
+<img width="653" height="802" alt="image" src="https://github.com/user-attachments/assets/e42ad457-860f-441d-baf0-7043e0006a3a" />
+
+User able to check the result by navigating in the generated report.
+
+<img width="1222" height="686" alt="image" src="https://github.com/user-attachments/assets/20f86da3-3b81-4ae8-9927-dfa22a3a091c" />
+
