@@ -10,3 +10,5 @@ OrangeHRM Inc. is a HR software company based in Secaucus, New Jersey, best know
 
 Below picture visualizes the framework of the created project which gives the overall picture of the elements included in this project inclusive of the project workflow.
 <img width="1707" height="918" alt="image" src="https://github.com/user-attachments/assets/363d9968-d656-4316-8481-8f29e99a1d01" />
+
+The framework is splitted into 2 sections which are development part and execution part. For development part, comprised of page object and test cases, which being supplemented by test data, utilities and resources. For execution section, this section focus on executing the program.
